@@ -1,6 +1,42 @@
+
 # Upliance.ai_analysis
 
-Dashboard Analysis Report for upliance.ai
+Steps I Have Followed:
+
+1.	Read the data file in Jupyter Notebook:
+o	Imported the dataset into the notebook for analysis using pandas.
+
+2.	Performed Exploratory Data Analysis (EDA):
+o	Conducted an initial inspection of the data, including descriptive statistics and visualizations to understand its structure and key patterns.
+
+3.	Cleaned the data:
+o	Addressed missing values, removed outliers, and ensured data quality through imputation and preprocessing techniques.
+
+4.	Merged and processed the data:
+o	Combined multiple datasets to create a unified dataset for analysis.
+o	Applied necessary transformations to align and format the data for further analysis.
+
+5.	Analyzed the relationship between cooking sessions and user orders:
+o	Explored correlations and patterns between user cooking sessions and their order behavior to derive meaningful insights.
+
+6.	Identified the popular dishes:
+o	Used data aggregation techniques to determine the most frequently ordered or cooked dishes.
+
+7.	Loaded the result dataset into Excel:
+o	Exported the processed and analyzed data into an Excel file for further exploration and reporting.
+
+8.	Created pivot tables as needed:
+o	Built dynamic pivot tables in Excel to summarize the data and focus on specific areas of interest.
+
+9.	Created visuals and added slicers:
+o	Developed insightful charts and graphs on top of the pivot tables.
+o	Added slicers for interactive filtering to enhance data exploration and presentation.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+# Dashboard Analysis Report for upliance.ai
 
 # Overview
 The dashboard shows important details about how people use upliance.ai's AI cooking assistant. It helps us understand when people use it, what they cook, where the users are, and which meals make the most money. These insights can guide better decisions to improve the product and grow the business.
