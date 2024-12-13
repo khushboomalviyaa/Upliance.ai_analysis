@@ -6,29 +6,26 @@
 1.	Read the data file in Jupyter Notebook:
 o	Imported the dataset into the notebook for analysis using pandas.
 
-2.	Performed Exploratory Data Analysis (EDA):
-o	Conducted an initial inspection of the data, including descriptive statistics and visualizations to understand its structure and key patterns.
-
-3.	Cleaned the data:
+2.	Cleaned the data:
 o	Addressed missing values, removed outliers, and ensured data quality through imputation and preprocessing techniques.
 
-4.	Merged and processed the data:
+3.	Merged and processed the data:
 o	Combined multiple datasets to create a unified dataset for analysis.
 o	Applied necessary transformations to align and format the data for further analysis.
 
-5.	Analyzed the relationship between cooking sessions and user orders:
+4.	Analyzed the relationship between cooking sessions and user orders:
 o	Explored correlations and patterns between user cooking sessions and their order behavior to derive meaningful insights.
 
-6.	Identified the popular dishes:
+5.	Identified the popular dishes:
 o	Used data aggregation techniques to determine the most frequently ordered or cooked dishes.
 
-7.	Loaded the result dataset into Excel:
+6.	Loaded the result dataset into Excel:
 o	Exported the processed and analyzed data into an Excel file for further exploration and reporting.
 
-8.	Created pivot tables as needed:
+7.	Created pivot tables as needed:
 o	Built dynamic pivot tables in Excel to summarize the data and focus on specific areas of interest.
 
-9.	Created visuals and added slicers:
+8.	Created visuals and added slicers:
 o	Developed insightful charts and graphs on top of the pivot tables.
 o	Added slicers for interactive filtering to enhance data exploration and presentation.
 
