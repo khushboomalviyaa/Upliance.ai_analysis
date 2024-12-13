@@ -1,7 +1,7 @@
 
 # Upliance.ai_analysis
 
-Steps I Have Followed:
+  ##Steps I Have Followed:
 
 1.	Read the data file in Jupyter Notebook:
 o	Imported the dataset into the notebook for analysis using pandas.
